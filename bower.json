@@ -1,0 +1,27 @@
+{
+  "name": "jpt",
+  "description": "",
+  "main": "./views/index.jade",
+  "authors": [
+    "Toukir Ahmed <toukirahmeds@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/skdjoy/jpt/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "public/jpt/bower_components"
+  ],
+  "dependencies": {
+    "angular": "^1.6.2",
+    "angular-route": "^1.6.2",
+    "angular-cookies": "^1.6.2",
+    "oclazyload": "^1.1.0",
+    "bootstrap": "^3.3.7",
+    "ng-file-upload": "^12.2.13",
+    "ng-repeat-owl-carousel": "*",
+    "ngmap": "^1.18.4",
+    "sweetalert2": "^6.6.2",
+    "ng-dropzone": "ngdropzone#^2.0.2"
+  }
+}
